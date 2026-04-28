@@ -82,3 +82,4 @@ if (current->next != NULL)
 current->next = newNode;   // Step 9d: current.next = newNode
 }
 
+void hapus()
