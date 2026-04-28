@@ -127,3 +127,5 @@ else
  delete current;
  cout << "Record with roll number " << rollNo << " deleted" << endl;
 }
+
+void traverse()
