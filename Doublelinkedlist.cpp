@@ -152,3 +152,5 @@ void traverse()
         i++;
     }
 }
+
+void revtraverse()
